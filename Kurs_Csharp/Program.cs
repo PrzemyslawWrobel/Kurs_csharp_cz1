@@ -13,6 +13,8 @@ namespace Kurs_Csharp
             {
                 Console.WriteLine("Hello " + item);
             }
+
+            //  fdsr
         }
     }
 }
